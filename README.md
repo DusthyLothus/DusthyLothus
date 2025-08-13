@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/45/fd/e8/45fde8fbe7299d1bffcf34e0e4a61462.gif" alt="Welcome GIF" width="600"/>
+  <img src="https://i.pinimg.com/originals/45/fd/e8/45fde8fbe7299d1bffcf34e0e4a61462.gif" alt="Welcome GIF" width="800"/>
 </p>
 
 # Hello There! 🍷
