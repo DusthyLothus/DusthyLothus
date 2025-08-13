@@ -65,6 +65,13 @@
 
 ---
 
+## 🚀 Métricas
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/DusthyLothus?label=Seguidores&style=social" alt="Seguidores no GitHub" />
+  <img src="https://img.shields.io/github/stars/DusthyLothus?label=Estrelas&style=social" alt="Estrelas no GitHub" />
+</p>
+
 ## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-silva-32369b1a9)  
