@@ -67,9 +67,9 @@
 
 ## 🚀 Métricas
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/DusthyLothus?label=Seguidores&style=social" alt="Seguidores no GitHub" />
-  <img src="https://img.shields.io/github/stars/DusthyLothus?label=Estrelas&style=social" alt="Estrelas no GitHub" />
+<p>
+  <img src="https://img.shields.io/badge/Seguidores-🔥%20DusthyLothus-black?style=for-the-badge&logo=github&logoColor=white&labelColor=red" alt="Seguidores no GitHub" />
+  <img src="https://img.shields.io/badge/Estrelas-⭐%20Repositórios-black?style=for-the-badge&logo=github&logoColor=white&labelColor=red" alt="Estrelas nos Repositórios" />
 </p>
 
 ## 📫 Onde me encontrar
