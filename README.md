@@ -22,8 +22,8 @@
 ## 📌 Projetos em destaque
 
 - [Python-Demon](https://github.com/DusthyLothus/Python-Demon) — Meu primeiro repositório no GitHub, criado para estudar e praticar Python.
-- [Projeto Exemplo 2](https://github.com/DusthyLothus/ProjetoExemplo2) — Descrição breve do projeto 2.
-- [Projeto Exemplo 3](https://github.com/DusthyLothus/ProjetoExemplo3) — Descrição breve do projeto 3.
+- [Projeto Exemplo 2](https://github.com/DusthyLothus/ProjetoExemplo2) — Em construção.
+- [Projeto Exemplo 3](https://github.com/DusthyLothus/ProjetoExemplo3) — Em construção.
 
 ---
 
@@ -32,8 +32,8 @@
 | Ano/Mês | O que Aprendi                     |
 |---------|----------------------------------|
 | 2025/08 | Iniciei meus estudos em Python   |
-| 2025/09 | Aprendi Git e GitHub              |
-| 2025/10 | Comecei a criar meus primeiros projetos |
+| 2025/09 | Em breve!              |
+| 2025/10 | Em breve! |
 
 ---
 
