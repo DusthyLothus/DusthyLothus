@@ -66,6 +66,18 @@
 
 ---
 
+## 🛠 Tecnologias que estou usando
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-70%25-yellowgreen?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML-60%25-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-60%25-lightblue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-40%25-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Git-90%25-blue?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-80%25-gray?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+
 ## 🚀 Métricas
 
 <p>
