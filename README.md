@@ -44,8 +44,8 @@
 ## 📌 Projetos em destaque
 
 - [Python-Demon](https://github.com/DusthyLothus/Python-Demon) — Meu primeiro repositório para aprender Python.  
-- [Projeto Exemplo 2](https://github.com/DusthyLothus/ProjetoExemplo2) — Breve descrição do projeto 2.  
-- [Projeto Exemplo 3](https://github.com/DusthyLothus/ProjetoExemplo3) — Breve descrição do projeto 3.
+- [Projeto Exemplo 2](https://github.com/DusthyLothus/ProjetoExemplo2) — Em Construção.  
+- [Projeto Exemplo 3](https://github.com/DusthyLothus/ProjetoExemplo3) — Em construção.
 
 ---
 
