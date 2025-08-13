@@ -66,7 +66,7 @@
 
 ---
 
-## 🚀 Métricas
+## 🖥️ Métricas
 
 <p>
   <img src="https://img.shields.io/github/followers/DusthyLothus?style=for-the-badge&label=Seguidores&labelColor=darkblue&color=black&logo=github&logoColor=white" alt="Seguidores no GitHub" />
