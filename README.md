@@ -2,7 +2,6 @@
   <img src="https://i.giphy.com/P1trdeqfQODW8.webp" alt="Welcome GIF" width="800"/>
 </p>
 
-
 # Hello There! 🍷
 
 🎓 Iniciante em programação apaixonado por Python e desenvolvimento de software.  
@@ -20,13 +19,13 @@
 
 ## 🛠 Tecnologias e Ferramentas
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+<p align="center">
+  <img src="https://progress-bar.dev/70/?title=Python" alt="Python"/>
+  <img src="https://progress-bar.dev/60/?title=HTML" alt="HTML"/>
+  <img src="https://progress-bar.dev/60/?title=CSS" alt="CSS"/>
+  <img src="https://progress-bar.dev/40/?title=JavaScript" alt="JavaScript"/>
+  <img src="https://progress-bar.dev/90/?title=Git" alt="Git"/>
+  <img src="https://progress-bar.dev/80/?title=GitHub" alt="GitHub"/>
 </p>
 
 ---
@@ -72,9 +71,6 @@
   <img src="https://img.shields.io/github/followers/DusthyLothus?style=for-the-badge&label=Seguidores&labelColor=darkblue&color=black&logo=github&logoColor=white" alt="Seguidores no GitHub" />
   <img src="https://img.shields.io/github/stars/DusthyLothus?style=for-the-badge&label=Estrelas&labelColor=darkblue&color=black&logo=github&logoColor=white" alt="Estrelas no GitHub" />
 </p>
-
-
-
 
 ## 📫 Onde me encontrar
 
