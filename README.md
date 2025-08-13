@@ -54,8 +54,8 @@
 | Ano/Mês | O que Aprendi                     |
 |---------|----------------------------------|
 | 2025/08 | Iniciei meus estudos em Python   |
-| 2025/09 | Aprendi Git e GitHub              |
-| 2025/10 | Comecei a criar meus primeiros projetos |
+| 2025/09 | Em Breve!            |
+| 2025/10 | Em Breve! |
 
 ---
 
