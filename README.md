@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/45/fd/e8/45fde8fbe7299d1bffcf34e0e4a61462.gif" alt="Welcome GIF" width="600"/>
 </p>
 
-# 👋 Olá, eu sou o DusthyLothus
+# Hello There! 🍷
 
 🎓 Iniciante em programação apaixonado por Python e desenvolvimento de software.  
 🚀 Atualmente focado em expandir minhas habilidades e criar projetos que fazem a diferença.
