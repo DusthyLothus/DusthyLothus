@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/45/fd/e8/45fde8fbe7299d1bffcf34e0e4a61462.gif" alt="Welcome GIF" width="600"/>
 </p>
 
-# 👋 Hello There! 🍷
+# Hello There! 🍷
 
 🎓 Sou iniciante em programação e este é o meu primeiro passo na jornada com Python e desenvolvimento de software.
 
