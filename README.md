@@ -68,9 +68,10 @@
 ## 🚀 Métricas
 
 <p>
-  <img src="https://img.shields.io/github/followers/DusthyLothus?style=for-the-badge&label=Seguidores&labelColor=red&color=black&logo=github&logoColor=white" alt="Seguidores no GitHub" />
-  <img src="https://img.shields.io/github/stars/DusthyLothus?style=for-the-badge&label=Estrelas&labelColor=red&color=black&logo=github&logoColor=white" alt="Estrelas no GitHub" />
+  <img src="https://img.shields.io/github/followers/DusthyLothus?style=for-the-badge&label=Seguidores&labelColor=red&color=darkred&logo=github&logoColor=white" alt="Seguidores no GitHub" />
+  <img src="https://img.shields.io/github/stars/DusthyLothus?style=for-the-badge&label=Estrelas&labelColor=blue&color=darkblue&logo=github&logoColor=white" alt="Estrelas no GitHub" />
 </p>
+
 
 
 ## 📫 Onde me encontrar
