@@ -62,7 +62,7 @@
 
 ## 📊 GitHub Stats
 
-![DusthyLothus GitHub Stats](https://github-readme-stats.vercel.app/api?username=DusthyLothus&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DusthyLothus&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
