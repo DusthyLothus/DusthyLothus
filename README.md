@@ -44,7 +44,7 @@
 
 ## 📌 Projetos em destaque
 
-- [Python-Demon](https://github.com/DusthyLothus/Python-Demon) — Meu primeiro repositório para aprender Python.  
+- [Projeto App Pokémon](https://github.com/DusthyLothus/ProjetoAppPokemon) — Meu primeiro repositório para criação de um App Pokémon.  
 - [Projeto Exemplo 2](https://github.com/DusthyLothus/ProjetoExemplo2) — Em Construção.  
 - [Projeto Exemplo 3](https://github.com/DusthyLothus/ProjetoExemplo3) — Em construção.
 
