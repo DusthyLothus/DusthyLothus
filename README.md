@@ -60,12 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DusthyLothus&show_icons=true&theme=tokyonight)
-
----
-
 ## 🖥️ Métricas
 
 <p>
